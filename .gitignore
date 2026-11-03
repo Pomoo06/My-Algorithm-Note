@@ -1,5 +1,5 @@
 .vscode/
-build/
+A_build/
 .clangd
-head/
+A_head/
 src/tmp*

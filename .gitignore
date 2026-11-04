@@ -3,3 +3,6 @@ A_build/
 .clangd
 A_head/
 src/tmp*
+compile_flags.txt
+include/leetcode.h 
+.codebuddy/

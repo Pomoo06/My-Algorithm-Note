@@ -1,5 +1,5 @@
-#ifndef TREE_H
-#define TREE_H
+#ifndef LESSON_H
+#define LESSON_H
 
 class Tree {
 public:
@@ -12,5 +12,5 @@ public:
     Tree(int val, Tree* left, Tree* right) : val(val), left(left), right(right) {}
     ~Tree() = default;
 };
-
+typedef Tree TreeNode;
 #endif
